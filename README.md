@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I am Letlhogonolo Masha 👋
+I am a Statistics graduate from the University of Cape Town with a strong interest in data analytics and data science, particularly within the financial services. 
 
-<!--
-**masha-letlhogonolo/masha-letlhogonolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working with data to uncover patterns, solve problems, and support better decision making. 
 
 Here are some ideas to get you started:
 
